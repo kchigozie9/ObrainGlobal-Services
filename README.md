@@ -35,5 +35,5 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 Thank you for choosing Obrain Global Services! We look forward to serving you.
 
-[Website](https://obrainglobalservices.com/) | [Contact Us](https://www.obrain-global.com/contact)
+[Website](https://obrainglobalservices.com/)
 
